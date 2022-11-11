@@ -8,8 +8,8 @@ const App = () => {
     <Welcome name="Shubham Kumar" />
     <Welcome name="Ram Singh" />
     </>
-  )
-}
+  );
+};
 
 
 export default App;
